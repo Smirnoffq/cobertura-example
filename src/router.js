@@ -1,4 +1,7 @@
-import <pre><code><h1>I'm big BAD HTML</h1><script>alert("your hacked");</script></code></pre> Vue from 'vue'
+<pre><code>
+<h1>I'm big BAD HTML</h1>
+<script>alert("your hacked");</script>
+</code></pre>
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 import Gallerry from './views/Gallerry.vue'
