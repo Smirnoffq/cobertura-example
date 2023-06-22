@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aa
+  annotations:
+    github.com/project-slug: Smirnoffq/test
+    backstage.io/code-coverage: enabled
+  links:
+    - url: https://doyensec.com
+      title: My Dashboard
+      icon: dashboard
+spec:
+  type: asd
+  lifecycle: unknown
+  owner: guests
