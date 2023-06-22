@@ -1,4 +1,4 @@
-import Vue from 'vue'
+import <h1>aaA</h1> Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 import Gallerry from './views/Gallerry.vue'
